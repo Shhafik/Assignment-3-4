@@ -1,0 +1,46 @@
+h1{
+    border-bottom: 3px solid red;
+    text-align: center;
+    padding: 5px;
+}
+.a{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 100px;
+}
+#abc{
+    width:600px;
+    display:flex;
+    align-items: flex-start;
+}
+#one {
+  width: 400px;
+  height: 500px;
+  border-radius: 8px;
+}
+input[placeholder="First"],
+input[placeholder="Last"],
+input[placeholder="city"],
+input[placeholder="state"] {
+  display: inline-block;
+  margin-right: 10px;
+}
+#a{
+  margin-left: 35px;
+}
+.z{
+  vertical-align:top;
+}
+.app{
+  margin-top: 100px;
+}
+.az{
+  margin-left: 130px;
+}
+#se{
+  text-align: center;
+}
+button{
+  background-color: aquamarine;
+}
